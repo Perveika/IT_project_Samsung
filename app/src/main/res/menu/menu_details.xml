@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.innovationcampus.vsu24.perveeva_m_s.helpforproject.MainActivity">
+
+    <item
+        android:id="@+id/action_save"
+        app:showAsAction="always"
+        android:title="@string/save_str"
+        android:icon="@drawable/baseline_save_24"/>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TripPlanner</string>
+    <string name="btn_plus_mainactivity">+</string>
+    <string name="new_dish">Новое блюдо</string>
+    <string name="addDishName_string">Название блюда</string>
+    <string name="addDishDetails_string">Описание блюда</string>
+    <string name="save_str">Сохранить</string>
+</resources>
